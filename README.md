@@ -27,3 +27,5 @@ Status des Repositories anzeigen:
 Repository von einem Remote-Server klonen: 
 `git clone <repository-url>`
 
+**Aufgabe C**
+
