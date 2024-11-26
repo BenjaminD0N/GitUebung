@@ -7,25 +7,37 @@ Git ist ein Versionierungssystem, mit dem man den Code von Projekten verwalten k
 **Aufgabe B**
 
 Git-Repository initialisieren: 
-`git init`
-
+```bash
+git init
+```
 Änderungen verfolgen (Datei zur Staging-Area hinzufügen):
-`git add <filename>`
-
+```bash
+git add <filename>
+```
 Änderungen committen (Speichern mit Beschreibung): 
-`git commit -m "Beschreibung der Änderungen"`
+```bash
+git commit -m "Beschreibung der Änderungen"
+```
 
 Status des Repositories anzeigen: 
-`git status`
+```bash
+git status
+```
 
 Änderungen vom Remote-Repository holen und zusammenführen: 
-`git pull <remote> <branch>`
+```bash
+git pull <remote> <branch>
+```
 
 Änderungen ins Remote-Repository hochladen: 
-`git push <remote> <branch>`
+```bash
+git push <remote> <branch>
+```
 
 Repository von einem Remote-Server klonen: 
-`git clone <repository-url>`
+```bash
+git clone <repository-url>
+```
 
 **Aufgabe C**
 
