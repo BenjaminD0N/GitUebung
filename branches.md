@@ -13,5 +13,9 @@ In Git sind Branches (Zweige) eine Möglichkeit, parallel an verschiedenen Featu
 
 Mit dem folgenden Befehl kannst du einen neuen Branch erstellen:
 
-```bash
+``bash
 git branch <branch-name>
+``
+
+## Beispiel für ein Bild
+![image](https://github.com/user-attachments/assets/0511dca3-81fa-4335-addf-ba8ce36a1373)
