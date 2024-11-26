@@ -41,6 +41,11 @@ git clone <repository-url>
 
 **Aufgabe C**
 
+[branches](https://github.com/BenjaminD0N/GitUebung/blob/aa6ec952c2289f01beb1d20ef84e67e723d40b7c/branches.md) 
+
+**Aufgabe D**
+
+
 ## Code - Review 
 
 Review von Euron Berisha am 26.11.2024
