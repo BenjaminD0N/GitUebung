@@ -41,3 +41,12 @@ git clone <repository-url>
 
 **Aufgabe C**
 
+# Code - Review 
+
+Review von Euron Berisha am 26.11.2024
+
+---
+
+* Commit-ID: 
+
+---
