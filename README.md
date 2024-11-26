@@ -45,7 +45,7 @@ git clone <repository-url>
 
 **Aufgabe D**
 
-[links]https://github.com/BenjaminD0N/GitUebung/blob/d07eaf0d161c26867d24d550cad9af550e1b018e/links.md
+[links](https://github.com/BenjaminD0N/GitUebung/blob/d07eaf0d161c26867d24d550cad9af550e1b018e/links.md)
 
 ## Code - Review 
 
